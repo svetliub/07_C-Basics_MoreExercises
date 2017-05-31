@@ -1,4 +1,4 @@
 # 07_C-Basics_MoreExercises
-Repo made for exercise
-Meking some changes here.
-This will make a conflict!
+This project will contain...
+Repository made for exercises.
+Edited again in the master branch...
